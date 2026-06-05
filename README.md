@@ -11,5 +11,5 @@ One-click AI research assistant.
 ## Run
 ```bash
 pip install -r requirements.txt
-python app/cli.py --paper sample.pdf
+python app/cli.py --paper sample.txt
 ```
